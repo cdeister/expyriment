@@ -28,5 +28,6 @@ from ._textbox import TextBox
 from ._textscreen import TextScreen
 from ._picture import Picture
 from ._tone import Tone
+from ._gaborpatch import GaborPatch
 
 from ._obsolete import Dot, Frame
